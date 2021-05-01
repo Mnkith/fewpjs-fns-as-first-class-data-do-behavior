@@ -1,5 +1,5 @@
 # JavaScript Functions as First Class Data: Do behavior
-
+ 
 ## Learning Goals
 
 - Create a JavaScript function triggered by an event
